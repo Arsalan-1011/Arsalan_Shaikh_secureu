@@ -52,7 +52,7 @@ This project is created for SecureU.
 This project helps in security.
 ### Output
         Note: This output is sample of the code for showing similarity with assignment pdf output sample.But the main .py file in 
-              this repository has the exact code and out that have been ask for in Code Functionality.Specially in ports, in Code 
+              this repository has the exact code and output that have been ask for in Code Functionality.Specially in ports, in Code 
               Functionality task required 1 to 250 ports and in sample of output there are only 5 ports.
               
 ![alt text](https://github.com/Arsalan-1011/Arsalan_Shaikh_secureu/blob/master/Output.JPG)
